@@ -1,0 +1,16 @@
+#Directory
+__pycache__/
+example/
+project/
+static/
+templates/
+voice/
+
+#File
+celerybeat-schedule.bak
+celerybeat-schedule.dat
+celerybeat-schedule.dir
+ping
+recognition-all.json
+test.py
+timestampTest.ipynb
