@@ -19,8 +19,8 @@ This Project is Industry-academic cooperation(<a href="http://www.mayfarm.co.kr/
 # Presentation
 <p align="center">
     <br>
-    <a href="https://www.youtube.com/watch?v=SH-TsfMa9Pg" target="_blank">
-        <img src='./assets/image/youtube.png' alt="presentation">
+    <a href="https://youtu.be/BUBGVy67n48" target="_blank">
+        <img src='./assets/image/pre.png' alt="presentation">
     </a>
     <br><br>
     <a href="https://dbsociety.kr/kdbc/kdbc2021/program.html" target="_blank">KDBC 2021</a>
