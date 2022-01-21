@@ -1,4 +1,4 @@
-# VoiceReplacementProgram
+# Voice Replacement Program
 Development of a voice audio replacement program for video content using deep learning speech synthesize technology
 <br>
 <pre>
