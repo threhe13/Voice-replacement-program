@@ -12,7 +12,7 @@ This Project is Industry-academic cooperation(<a href="http://www.mayfarm.co.kr/
 # Demo
 <p align="center">
     <a href="https://www.youtube.com/watch?v=j9sf0PhwcJY" target="_blank">
-        <img src="./assets/image/main.png" alt="demo image" width='320px'>
+        <img src="./assets/image/main.png" alt="demo image" width='640px'>
     </a>
 </p>
 
@@ -20,7 +20,7 @@ This Project is Industry-academic cooperation(<a href="http://www.mayfarm.co.kr/
 <p align="center">
     <br>
     <a href="https://youtu.be/BUBGVy67n48" target="_blank">
-        <img src='./assets/image/pre.png' alt="presentation" width='320px'>
+        <img src='./assets/image/pre.png' alt="presentation" width='640px'>
     </a>
     <br><br>
     <a href="https://dbsociety.kr/kdbc/kdbc2021/program.html" target="_blank">KDBC 2021</a>
